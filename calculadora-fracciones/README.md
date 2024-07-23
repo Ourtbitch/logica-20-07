@@ -1,5 +1,5 @@
 # Ejercicio 1: Calculadora de Fracciones
-![enter image description here](https://i.pinimg.com/originals/f2/51/ec/f251ec2c21b076e11b5898550a8b13a4.gif)
+![enter image description here](https://i.pinimg.com/736x/65/48/3e/65483e902c0fe9f1219799477fd33cd1.jpg)
 
 
 **Descripción:** Crea una calculadora que pueda realizar operaciones básicas (suma, resta, multiplicación y división) con fracciones. Una fracción se representa como un par de enteros: numerador y denominador. La calculadora debe recibir dos fracciones y la operación a realizar, y luego devolver el resultado como una fracción simplificada.
